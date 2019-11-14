@@ -1,0 +1,21 @@
+body {
+  background-color: darkgray;
+}
+h1 {
+    color: black;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+}
+h2, h3 {
+  color: black;
+  text-align: left;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+
+}
+
+p {
+  font-family: 'Courier New', Courier, monospace
+  font-size: 25px;
+}
