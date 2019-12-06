@@ -1,13 +1,18 @@
-body {
-  background-color: darkgray;
+header {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace
 }
-h1 {
+
+body {
+  background-color: gray;
+}
+article {
     color: black;
     text-align: left;
     font-family: 'Courier New', Courier, monospace;
     font-size: 35px;
 }
-h2, h3 {
+article {
   color: black;
   text-align: left;
   font-family: 'Courier New', Courier, monospace;
@@ -15,7 +20,8 @@ h2, h3 {
 
 }
 
-p {
-  font-family: 'Courier New', Courier, monospace
-  font-size: 25px;
+footer {
+  text-align: center;
+  font size: 22px;
+  font-family: 'Courier New', Courier, monospace;
 }
